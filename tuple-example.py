@@ -1,0 +1,5 @@
+tuple_ornek = ("ali", "veli", 5)
+print(tuple_ornek)
+print(tuple_ornek.count("ali"))
+print(tuple_ornek.index("veli"))
+print(tuple_ornek.index(5))
